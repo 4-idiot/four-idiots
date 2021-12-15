@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(201, 201, 201);
+    background-color: rgb(255, 255, 255);
 }
 
 /* by nyi commit */
@@ -51,6 +51,23 @@ body{
 /* end by Mr Thein commit*/
 
 /* by htinlinn commit */
+.thrid-clock{
+    font-size: 60px;
+}
+.thrid-header{
+    margin-bottom: 5px;
+}
+.thrid-drowdown{
+    font-size: 9px;
+    background-color: black;
+    border-radius: 48px;
+    padding: 10px;
+    opacity: 0.4;
+    color: white;
+    width: 50px;
+}
+
+
 /* end by htinlinn commit*/
 
 /* by ohnmar commit */
