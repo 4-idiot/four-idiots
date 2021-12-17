@@ -1,8 +1,27 @@
 body{
-    background-color: rgb(201, 201, 201);
+    border-style: solid;
+    border-color: rgb(201, 201, 201);
+    border-width: 10px;
+    
 }
 
 /* by nyi commit */
+.nyi-radius{
+    border-radius: 50%;
+}
+.nyi-header{
+    margin-bottom: -5px;
+}
+.nyi-nvabarone{
+    border: solid 1px;
+}
+.nyi-liborder{
+    border-right: solid 1px;
+    padding-right: 55px;
+}
+.nyi-white{
+    border: solid 1px;
+}
 /* end by nyi commit*/
 
 /* by Mr Thein commit */
