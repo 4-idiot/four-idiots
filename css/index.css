@@ -1,8 +1,14 @@
 body{
+
+    background-color: #fffbfb;
+    font-family: 'Times New Roman', Times, serif;
+
     background-color: rgb(255, 255, 255);
+
 }
 
 /* by nyi commit */
+
 /* end by nyi commit*/
 
 /* by Mr Thein commit */
@@ -71,4 +77,14 @@ body{
 /* end by htinlinn commit*/
 
 /* by ohnmar commit */
+.four i{
+   font-size:30px;
+   color:dimgrey;
+   padding:50px 0px; 
+}
+.footericon i{
+    font-size: 40px;
+    padding:0px 10px;
+    color:gray;
+}
 /* end by ohnmar commit*/
