@@ -1,6 +1,10 @@
 body{
+
     background-color: #fffbfb;
     font-family: 'Times New Roman', Times, serif;
+
+    background-color: rgb(255, 255, 255);
+
 }
 
 /* by nyi commit */
@@ -8,9 +12,68 @@ body{
 /* end by nyi commit*/
 
 /* by Mr Thein commit */
+
+
+    .th-card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        
+        background-clip: border-box;
+       
+        border-radius: .25rem;
+    }
+
+    .th-card-body{
+        flex: 1 1 auto;
+        padding: 1rem 1rem;
+        text-align: center;
+    }
+    .my-container{
+
+        width:75%;
+        padding-right: var(--bs-gutter-x,.75rem);
+        padding-left: var(--bs-gutter-x,.75rem);
+        margin-right: auto;
+        margin-left: auto;
+       
+    }
+    img{
+
+        border-radius: 50%;
+        width: 90%;
+
+    }
+    
+
+   
+  
+
+
+
+
 /* end by Mr Thein commit*/
 
 /* by htinlinn commit */
+.thrid-clock{
+    font-size: 60px;
+}
+.thrid-header{
+    margin-bottom: 5px;
+}
+.thrid-drowdown{
+    font-size: 9px;
+    background-color: black;
+    border-radius: 48px;
+    padding: 10px;
+    opacity: 0.4;
+    color: white;
+    width: 50px;
+}
+
+
 /* end by htinlinn commit*/
 
 /* by ohnmar commit */
